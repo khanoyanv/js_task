@@ -1,0 +1,26 @@
+.welcome_note {
+    color: #3A1078;
+}
+
+.description {
+    color: #4E31AA;
+    font-style: italic;
+}
+
+.name {
+    color: #3795BD;
+}
+
+.btn {
+    border: none;
+    padding: 5px 10px;
+    background-color: #7361ae;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.btn:hover {
+    background-color: #3A1078;
+    color: white;
+}
